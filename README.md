@@ -1,0 +1,2 @@
+# FINLIX
+personal projects
